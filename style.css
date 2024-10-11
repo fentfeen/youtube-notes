@@ -65,8 +65,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-#access-message {
-    color: red;
-    margin-top: 10px;
-    font-size: 14px;
+#notes-output {
+    margin-top: 20px;
 }
